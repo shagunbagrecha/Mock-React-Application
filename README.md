@@ -1,0 +1,1 @@
+# This simple React application helped me explore the fundamentals of React, conceptually and hands-on.
